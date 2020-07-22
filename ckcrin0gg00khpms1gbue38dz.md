@@ -24,7 +24,7 @@ By the end of this article, you would have all the necessary resources, you need
 
 ## Fonts
 * [Google-fonts](https://fonts.google.com/)
-* [Fonts and Colors](https://https://www.colorsandfonts.com/)
+* [Fonts and Colors](https://www.colorsandfonts.com/)
 * [Font-pair](https://fontpair.co/)
 
 ## Logo Maker
@@ -93,7 +93,7 @@ By the end of this article, you would have all the necessary resources, you need
 ## Resume maker
 * [Resumake](https://resumake.io)
 * [Wtfresume](https://wtfresume.com) 
-* [Rx-resume](https://https://rx-resume.web.app/)
+* [Rx-resume](https://rx-resume.web.app/)
 * [Bytevitae](https://cv.bytevitae.com/login)
 * [Gitconnected resume builder](https://gitconnected.com/resume-builder)
 
