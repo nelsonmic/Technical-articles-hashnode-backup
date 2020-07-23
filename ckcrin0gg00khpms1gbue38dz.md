@@ -26,6 +26,7 @@ By the end of this article, you would have all the necessary resources, you need
 * [Google-fonts](https://fonts.google.com/)
 * [Fonts and Colors](https://www.colorsandfonts.com/)
 * [Font-pair](https://fontpair.co/)
+* [Fonts.do](https://fonts.do/)
 
 ## Logo Maker
 * [Namecheap logo maker](https://www.namecheap.com/logo-maker)
@@ -58,6 +59,7 @@ By the end of this article, you would have all the necessary resources, you need
 * [Colors and Fonts](https://www.colorsandfonts.com/)
 * [Colors Inspo](https://colorsinspo.com/)
 * [Palleton](https://paletton.com/#uid=c5-2L0q3e0kllllaFw0g0qFqFg0w0aF)
+* [Coolors](https://coolors.co/)
 ## Images
 * [Unsplash](https://unsplash.com/)
 * [Landing Stock](https://landingstock.com/)
