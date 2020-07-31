@@ -7,20 +7,20 @@ In this article I’ve compiled a list of useful resources, to help in your deve
 By the end of this article, you would have all the necessary resources, you need to start working on your project.
 
 ## Table of Contents
-* [Fonts](##Fonts)
-* [Logo Maker](##Logo-Maker)
-* [Icons](##Icons)
-* [Illustrations](##Illustrations)
-* [Colors](##Colors)
-* [Images](##Images)
-* [Animations](##Animations)
-* [Videos](##Videos)
-* [Youtube Channels](##Youtube-Channels)
-* [Design Inspiration](##Design-Inspiration)
-* [API](##API)
-* [Chrome Extensions](##Chrome-Extensions)
-* [Free Webpage Templates](##Free-Webpage-Templates)
-* [Resume Maker](##Resume-maker)
+* [Fonts](#Fonts)
+* [Logo Maker](#Logo-Maker)
+* [Icons](#Icons)
+* [Illustrations](#Illustrations)
+* [Colors](#Colors)
+* [Images](#Images)
+* [Animations](#Animations)
+* [Videos](#Videos)
+* [Youtube Channels](#Youtube-Channels)
+* [Design Inspiration](#Design-Inspiration)
+* [API](#API)
+* [Chrome Extensions](#Chrome-Extensions)
+* [Free Webpage Templates](#Free-Webpage-Templates)
+* [Resume Maker](#Resume-maker)
 
 ## Fonts
 * [Google-fonts](https://fonts.google.com/)
@@ -43,6 +43,12 @@ By the end of this article, you would have all the necessary resources, you need
 * [The noun project](https://thenounproject.com/)
 * [Icon Finder](https://www.iconfinder.com/free_icons)
 * [Font Awesome](https://fontawesome.com/)
+* [Feather icons](https://feathericons.com/)
+* [Eva icons](https://akveo.github.io/eva-icons/#/)
+* [Remix icon](https://remixicon.com/)
+* [Ikonate](https://ikonate.com/)
+* [Material design icon](https://materialdesignicons.com/)
+*[Streamline icons](https://streamlineicons.com/)
 
 ## Illustrations
 * [UnDraw- Open source Illustrations](https://undraw.co/)
@@ -54,6 +60,8 @@ By the end of this article, you would have all the necessary resources, you need
 * [Vector Illustrations](https://icons8.com/illustrations)
 * [SVG Wave Generator](https://getwaves.io/)
 * [Blob maker](https://www.blobmaker.app/)
+* [Bicycle Illustrations](https://welovedaily.com/resources/35-outstanding-bicycle-illustrations)
+
 ## Colors
 * [Happy hues](https:/https://www.happyhues.co/)
 * [Colors and Fonts](https://www.colorsandfonts.com/)
@@ -61,24 +69,39 @@ By the end of this article, you would have all the necessary resources, you need
 * [Palleton](https://paletton.com/#uid=c5-2L0q3e0kllllaFw0g0qFqFg0w0aF)
 * [Coolors](https://coolors.co/)
 * [Linear-gradient-generator](https://thesultan00.github.io/linear-gradient-generator/)
+
 ## Images
 * [Unsplash](https://unsplash.com/)
 * [Landing Stock](https://landingstock.com/)
 * [Freepik](https://freepik.com/)
 * [Shotzr](https://www.shotzr.com/)
+* [Pexels](https://www.pexels.com/photo/bandwidth-close-up-computer-connection-1148820/)
+* [Pixabay](https://pixabay.com/photos/feather-pattern-texture-form-4431599/)
+* [Burst](https://burst.shopify.com/photos/abstract-phone-wallpaper?c=background)
+* [Pikwizard](https://pikwizard.com/photo/abc-abstract-alphabet-background/13b8e972827f8ba54c1cdcc4e25a80a2)
+* [Negative space](https://negativespace.co/abstract-blue-background/)
+* [Reshot](https://www.reshot.com/photos/city-lights-through-my-window-paris-france_rs_EOjbvY)
+* [Stocksnap](https://stocksnap.io/photo/abstract-light-3R3DYREHEW)
+* [Gratisography](https://gratisography.com/photo/colorful-abstract-building/)
+* [Pixel mob](https://app.pixelmob.co/search/pattern)
+
 ## Animations
 * [Animate.css](https://animate.style/)
 * [Anime.js](https://animejs.com/)
+
 ## Videos
 * [Mixkit](https://mixkit.co/)
 * [Coverr](https://coverr.co/)
 * [Pexels](https://www.pexels.com/videos)
+
 ## Youtube Channels
 * [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
 * [Designcourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
+
 ## Design Inspiration
 * [Dribbble](https://dribbble.com/)
 * [UI Design daily](https://uidesigndaily.com/)
+
 ## API
 * [Public-api](https://public-apis.xyz/)
 ## Chrome Extensions
@@ -87,6 +110,7 @@ By the end of this article, you would have all the necessary resources, you need
 * [Fonts Ninja](https://fonts.ninja)
 * [WhatRuns](https://whatruns.com)
 * [JSON Viewer Awesome](https://chrome.google.com/webstore/detail/json-viewer-awesome/iemadiahhbebdklepanmkjenfdebfpfe/related)
+
 ## Free Webpage Templates
 * [Mash-up](https://www.mashup-template.com/templates.html)
 * [Creative-tim](https://www.creative-tim.com/templates/free)
