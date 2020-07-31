@@ -60,6 +60,7 @@ By the end of this article, you would have all the necessary resources, you need
 * [Colors Inspo](https://colorsinspo.com/)
 * [Palleton](https://paletton.com/#uid=c5-2L0q3e0kllllaFw0g0qFqFg0w0aF)
 * [Coolors](https://coolors.co/)
+* [Linear-gradient-generator](https://thesultan00.github.io/linear-gradient-generator/)
 ## Images
 * [Unsplash](https://unsplash.com/)
 * [Landing Stock](https://landingstock.com/)
